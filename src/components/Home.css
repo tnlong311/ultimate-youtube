@@ -1,0 +1,7 @@
+#vid-container {
+  height: 100vh
+}
+iframe { 
+  width: 66vw;
+  aspect-ratio: 16 / 9;
+}
