@@ -31,7 +31,8 @@ const Home = () => {
       setCount(count-1)
     }
   }
-
+  
+  
   const getLinkData = () => {
     refetch()
 
