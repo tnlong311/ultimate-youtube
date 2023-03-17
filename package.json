@@ -1,7 +1,7 @@
 {
   "name": "ultimate-youtube",
   "version": "1.0.0",
-  "homepage": "https://tnlong311.github.io/ultimate-youtube",
+  "homepage": "https://tnlong311.github.io/ultimate-youtube/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
