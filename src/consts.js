@@ -4,4 +4,6 @@ const getEmbedLink = (id, time) => {
   return embedLink + id + "?start=" + time
 }
 
-export default getEmbedLink
+const pageNumRegex = /^[0-9]*$/
+
+export {getEmbedLink, pageNumRegex}
